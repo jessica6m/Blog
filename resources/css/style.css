@@ -1,0 +1,21 @@
+body {
+ font-family: monospace;
+ background-color: navy;
+ color: skyblue;
+}
+
+.header {
+  color: navy;
+  text-align: center;
+  background-image: url("city.jpg");
+  font-size: 18px;
+}
+
+p, ol a{
+  font-size: 18px;
+  color: skyblue;
+}
+
+.container {
+  text-align: center;
+}
